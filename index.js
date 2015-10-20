@@ -9,6 +9,7 @@ module.exports = {
 	util: require('./lib/util'),
 	html: require('./lib/html'),
 	text: require('./lib/text'),
+	dynamo: require('./lib/dynamo'),
 
 	_: require('lodash'),
 	Promise: Promise,
